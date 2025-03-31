@@ -15,7 +15,7 @@ if __name__ == '__main__':
 
 # Initialize speech engine and other components
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"]= "api-key.json"
-project_id = "soundscape-454816"
+project_id = "project_id"
 engine = speech.speech_to_text()
 
 # Initialize Gemini Vision
