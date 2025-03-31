@@ -1,0 +1,6 @@
+*.weights
+*.1
+personal.py
+*.pyc
+*.api-key.json
+*.env
