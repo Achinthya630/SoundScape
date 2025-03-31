@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "soundscape-454816",
-  "private_key_id": "df417654bd60ed34f440f5d993f30dd7ece31a77",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDChrOvhhC97gBA\nocIaVzzpLdhTMFg8FbtHS7rwqwfTBbl1TlsS/fBMm5PVBOWzoiqcSSHwj8ry/Syg\ncrwZm9vKc4jv5ORK+zYBU+ddT+JaI13b+tAEMWSlME+FThdIUCO5Y2iNDFpc8R/T\n6T7EhMZj360Us5cdKcXj9PtJ0eoG9zgc1aR9dFYIYGTi4ii+IN5I/1lxx+5xnsoI\nEs52Yrquohcvcoq2tcAyqBVbt2rtxeWyL2XB2k3YjRyHMLB5LtosjB9yIoOn/AFQ\nkeD3urtbjHEtGwweWTG4Hy6wChTrUOhdhl827SWRGcdNEO359GYM219gme566D1w\nzHqoEqLbAgMBAAECggEAPOCnD0Fnr+jyD0gQVOoEV/1O/AnfMz6h05gxsuvzkOjz\nt3CENBdgwrjVtQ7JTERuDWcdxglaPF1bQANoNqN+T4eEzX7Wq1ie+B9oAt3jOs5i\nq1t9CjLjCodp+5AK3UinRXeE2s+I4BleGpWeXSYoaE0x/46MtkXCdqrOkbWuBet/\nq74EfBfZY6NYuFvO+H5sEvhaK8tbUeSeKHT6Agf99r4iN4DqbmxiJWRFj+Gya7L+\nvALlOXCO1sbIaKPVirLTSbG3OJx7/hXEl6OxnW5VI3wVbcC/Y+FoD8oVUuH9SM14\nQNB+FYrLzu1qBJtRo+lMlxqzzT+mIeyIxG8QH9RPMQKBgQD+6uV7VFDheE9aASwI\ngk/X/6ACa3aPVswDegyZ042ToH4qGpUEoOWd0bImxUg8C84c9jxn+30CKNxfhboX\n/PzdbUd9B6CebSZBK47ggG3tdNGrLzKQeVH0SEmZFOoDGRE2hhGozCdu5lh1/18v\n6G3IRWbQUZWQ8q+7/Iqihh67FwKBgQDDWih5t2A/bAj/842+UsP2KvYuAgewxP/1\ncpmop00TswwshKMvXtiKNFiGkCccJIcYAWbuV+EGMkdguR2/nwPBU+NKZBINPTWg\nbGdQb0/3sT4enTKVzGkfUOceqwkZ5kj3yR4aa49mtmw6/GWNDMVkof54cUFIqwLs\n70EQPUHg3QKBgGEkBhr/QGsLO8HinHMJpX98K++AIAfzXX8drVuZIGRXTnyg8JR4\n88c2N5tKpoIrRXoH43EEhtih1YiZHxcxEvMWR52/oFd+5IsFHEc06a8JSzTeoXgo\nozBhs5ogPCS+Eq8iW+xlD8nVAXTFwfIxslQVDl7oGATKVmlejT3tuhw1AoGBAJ2N\ngUdpVf7QqxGC5LazGcjYLWQ9zuYKfEUBAFy9UbSpmw/siZAS9qHARgWBDYntC+eY\neeOQjLPqqRahNhTtsqGhfpbozoZO74lK5KhCnkQuduNJ9RpLmhzfqwdY+iYhTIhL\ndDPqu+UjC3cnSN/RhQH8hLeu3/AzvFBLRjZKsW8hAoGAFwiSUKaaqJjt57pwQOQa\nR2PkEFjBTWQekO0Ii3umQ9pogLAfmcsb0entbq1IAzBWJUSjea9f1JUXx9merrpC\nonu7G7K8I3H7pwzlb3oRK5AnOQss5fvEP4HhQAGlCJKEYMrzZ8ZI67ZNk2lcGn7X\ntGUm6RBvvnmGNgXgWXNKp/g=\n-----END PRIVATE KEY-----\n",
-  "client_email": "soundscape-service@soundscape-454816.iam.gserviceaccount.com",
-  "client_id": "117479841972237597586",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/soundscape-service%40soundscape-454816.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+//google api key goes here
